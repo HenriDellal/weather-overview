@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>114|Despejado</item>
+	<item>113|Soleado</item>
+	<item>116|Parcialmente nublado</item>
+	<item>119|Nublado</item>
+	<item>122|Cubierto de nubes</item>
+	<item>143|Niebla</item>
+	<item>176|Posible lluvia irregular</item>
+	<item>179|Posible aguanieve irregular</item>
+	<item>182|Posible aguanieve irregular</item>
+	<item>185|Posible llovizna helada irregular</item>
+	<item>200|Posibles brotes de tormentas</item>
+	<item>227|Nieve tormentosa</item>
+	<item>230|Ventisca</item>
+	<item>248|Niebla</item>
+	<item>260|Niebla helada</item>
+	<item>263|Llovizna ligera irregular</item>
+	<item>266|Llovizna ligera</item>
+	<item>281|Llovizna helada</item>
+	<item>284|Llovizna muy helada</item>
+	<item>293|Lluvia ligera irregular</item>
+	<item>296|Lluvia ligera</item>
+	<item>299|Lluvia moderada ocasional</item>
+	<item>302|Lluvia moderada</item>
+	<item>305|Lluvia fuerte ocasional</item>
+	<item>308|Lluvia fuerte</item>
+	<item>311|Lluvia ligera helada</item>
+	<item>314|Lluvia helada moderada o fuerte</item>
+	<item>317|Aguanieve ligero</item>
+	<item>320|Aguanieve moderado o fuerte</item>
+	<item>323|Nieve ligera irregular</item>
+	<item>326|Nieve ligera</item>
+	<item>329|Nieve moderada irregular</item>
+	<item>332|Nieve moderada</item>
+	<item>335|Nieve pesada irregular</item>
+	<item>338|Nieve pesada</item>
+	<item>350|Perdigones de hielo</item>
+	<item>353|Aguacero ligero</item>
+	<item>356|Aguacero moderado o fuerte</item>
+	<item>359|Aguacero torrencial</item>
+	<item>362|Aguacero ligero con aguanieve</item>
+	<item>365|Aguacero con aguanieve moderado o fuerte</item>
+	<item>368|Aguacero con nieve ligera</item>
+	<item>371|Aguacero con nieve moderada o fuerte</item>
+	<item>386|Lluvia ligera irregular con truenos</item>
+	<item>389|Lluvia moderada o fuerte con truenos</item>
+	<item>392|Nevada ligera irregular con truenos</item>
+	<item>395|Nevada moderada o fuerte con truenos</item>
+</string-array>
+</resources>

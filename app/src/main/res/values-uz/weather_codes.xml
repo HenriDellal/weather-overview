@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Quyoshli</item>
+	<item>116|Qisman bulutli</item>
+	<item>119|Bulutli</item>
+	<item>122|Bulutli</item>
+	<item>143|Tuman</item>
+	<item>176|Joylarda yomg\'ir ehtimoli</item>
+	<item>179|Joylarda qor ehtimoli</item>
+	<item>182|Joylarda yomg\'ir aralash qor ehtimoli</item>
+	<item>185|Joylarda muzlatuvchi mayda yomg\'ir ehtimoli</item>
+	<item>200|Momoqaldiroq ehtimoli</item>
+	<item>227|Qorli izg\'irin</item>
+	<item>230|Bo\'ron</item>
+	<item>248|Tuman</item>
+	<item>260|Sovuq tuman</item>
+	<item>263|Joylarda yengil yomg\'ir</item>
+	<item>266|Yengil yomg\'ir</item>
+	<item>281|Muzlatuvchi yomg\'ir</item>
+	<item>284|Kuchli muzlatuvchi yomg\'ir</item>
+	<item>293|Joylarda yengil yomg\'ir</item>
+	<item>296|Yengil yomg\'ir</item>
+	<item>299|Vaqti bilan o\'rtacha yomg\'ir</item>
+	<item>302|O\'rtacha yomg\'ir</item>
+	<item>305|Vaqti bilan kuchli yomg\'ir</item>
+	<item>308|Kuchli yomg\'ir</item>
+	<item>311|Yengil muzlatuvchi yomg\'ir</item>
+	<item>314|O\'rtacha yoki kuchli muzlatuvchi yomg\'ir</item>
+	<item>317|Yengil yomg\'ir aralash qor</item>
+	<item>320|O\'rtacha yoki kuchli yomg\'ir aralash qor</item>
+	<item>323|Joylarda yengil qor</item>
+	<item>326|Yengil qor</item>
+	<item>329|Joylarda o\'rtacha qor</item>
+	<item>332|O\'rtacha qor</item>
+	<item>335|Joylarda kuchli qor</item>
+	<item>338|Kuchli qor</item>
+	<item>350|Do\'l</item>
+	<item>353|Qisqa jala</item>
+	<item>356|O\'rtacha yoki kuchli jala</item>
+	<item>359|Shiddatli jala</item>
+	<item>362|Qisqa qorli jala</item>
+	<item>365|O\'rtacha yoki kuchli qorli jala</item>
+	<item>368|Qisqa qor aralash yomg\'ir</item>
+	<item>371|O\'rtacha yoki kuchli qorli jala</item>
+	<item>386|Joylarda yengil yomg\'ir va momaqaldiroq</item>
+	<item>389|O\'rtacha yoki kuchli yomg\'ir va momaqaldiroq</item>
+	<item>392|Joylarda yengil qor va momaqaldiroq</item>
+	<item>395|O\'rtacha yoku kuchli qor va momaqaldiroq</item>
+</string-array>
+</resources>

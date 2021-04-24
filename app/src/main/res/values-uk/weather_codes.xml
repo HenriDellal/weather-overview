@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Сонячно</item>
+	<item>116|Змінна хмарність</item>
+	<item>119|Хмарно</item>
+	<item>122|Похмуро</item>
+	<item>143|Невеликий туман</item>
+	<item>176|Місцями дощ</item>
+	<item>179|Місцями сніг</item>
+	<item>182|Місцями дощ зі снігом</item>
+	<item>185|Місцями ожеледь</item>
+	<item>200|Місцями грози</item>
+	<item>227|Заметіль</item>
+	<item>230|Снігова буря</item>
+	<item>248|Туман</item>
+	<item>260|Крижаний туман</item>
+	<item>263|Місцями мряка</item>
+	<item>266|Мряка</item>
+	<item>281|Ожеледь</item>
+	<item>284|Сильна ожеледь</item>
+	<item>293|Місцями невеликий дощ</item>
+	<item>296|Невеликий дощ</item>
+	<item>299|Часом помірний дощ</item>
+	<item>302|Помірний дощ</item>
+	<item>305|Часом сильний дощ</item>
+	<item>308|Сильний дощ</item>
+	<item>311|Слабкий крижаний дощ</item>
+	<item>314|Крижаний дощ</item>
+	<item>317|Невеликий дощ зі снігом</item>
+	<item>320|Дощ зі снігом</item>
+	<item>323|Місцями невеликий сніг</item>
+	<item>326|Невеликий сніг</item>
+	<item>329|Місцями помірний сніг</item>
+	<item>332|Помірний сніг</item>
+	<item>335|Місцями сильний сніг</item>
+	<item>338|Сильний сніг</item>
+	<item>350|Льодяний дощ</item>
+	<item>353|Невелика злива</item>
+	<item>356|Злива</item>
+	<item>359|Дуже сильна злива</item>
+	<item>362|Невеликий мокрий сніг</item>
+	<item>365|Мокрий сніг</item>
+	<item>368|Невеликий сніг</item>
+	<item>371|Сніг</item>
+	<item>386|Місцями дощ з грозою</item>
+	<item>389|Дощ з грозою</item>
+	<item>392|Місцями сніг з грозою</item>
+	<item>395|Сніг з грозою</item>
+</string-array>
+</resources>

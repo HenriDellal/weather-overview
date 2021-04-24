@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|晴れ</item>
+	<item>116|所により曇り</item>
+	<item>119|曇り</item>
+	<item>122|曇り</item>
+	<item>143|靄</item>
+	<item>176|所により雨</item>
+	<item>179|所により雪</item>
+	<item>182|所により凍雨</item>
+	<item>185|所により着氷性の霧雨</item>
+	<item>200|雷雨の発生</item>
+	<item>227|吹雪</item>
+	<item>230|猛吹雪</item>
+	<item>248|霧</item>
+	<item>260|着氷性の霧</item>
+	<item>263|所により弱い霧雨</item>
+	<item>266|弱い霧雨</item>
+	<item>281|着氷性の霧雨</item>
+	<item>284|強い着氷性の霧雨</item>
+	<item>293|所により弱い雨</item>
+	<item>296|弱い雨</item>
+	<item>299|時々雨</item>
+	<item>302|雨</item>
+	<item>305|時々強い雨</item>
+	<item>308|強い雨</item>
+	<item>311|弱い着氷性の雨</item>
+	<item>314|着氷性の雨または強い着氷性の雨</item>
+	<item>317|弱い凍雨</item>
+	<item>320|凍雨または強い凍雨</item>
+	<item>323|所により弱い雪</item>
+	<item>326|弱い雪</item>
+	<item>329|所により雪</item>
+	<item>332|雪</item>
+	<item>335|所により強い雪</item>
+	<item>338|強い雪</item>
+	<item>350|凍雨</item>
+	<item>353|弱い驟雨</item>
+	<item>356|驟雨または強い驟雨</item>
+	<item>359|激しい驟雨</item>
+	<item>362|弱い凍雨</item>
+	<item>365|凍雨または強い凍雨</item>
+	<item>368|弱い雨と驟雪と靄</item>
+	<item>371|驟雪または強い驟雪</item>
+	<item>386|所により雷を伴う弱い雨</item>
+	<item>389|雷を伴う雨または強い雨</item>
+	<item>392|所により雷を伴う弱い雪</item>
+	<item>395|雷を伴う雪または強い雪</item>
+</string-array>
+</resources>

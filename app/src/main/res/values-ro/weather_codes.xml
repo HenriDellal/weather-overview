@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Însorit</item>
+	<item>116|Parțial înnorat</item>
+	<item>119|Înnorat</item>
+	<item>122|Cer acoperit</item>
+	<item>143|Ceață</item>
+	<item>176|Posibilă ploaie pe alocuri</item>
+	<item>179|Posibilă ninsoare pe alocuri</item>
+	<item>182|Posibilă lapoviță pe alocuri</item>
+	<item>185|Posibilă burniță înghețată pe alocuri</item>
+	<item>200|Posibile tunete</item>
+	<item>227|Zăpadă în rafale</item>
+	<item>230|Viscol</item>
+	<item>248|Ceață</item>
+	<item>260|Ceață înghețată</item>
+	<item>263|Burniță ușoară pe alocuri</item>
+	<item>266|Burniță ușoară</item>
+	<item>281|Burniță înghețată</item>
+	<item>284|Burnită înghețată abundentă</item>
+	<item>293|Ploaie ușoară pe alocuri</item>
+	<item>296|Ploaie ușoară</item>
+	<item>299|Momente de ploaie moderată</item>
+	<item>302|Ploaie moderată</item>
+	<item>305|Momente de ploaie torențială</item>
+	<item>308|Ploaie torențială</item>
+	<item>311|Ploaie înghețată ușoară</item>
+	<item>314|Ploaie înghețată moderată sau torențială</item>
+	<item>317|Lapoviță ușoară</item>
+	<item>320|Lapoviță moderată sau torențială</item>
+	<item>323|Ninsoare ușoară pe alocuri</item>
+	<item>326|Ninsoare ușoară</item>
+	<item>329|Ninsoare moderată pe alocuri</item>
+	<item>332|Ninsoare moderată</item>
+	<item>335|Ninsoare abundentă pe alocuri</item>
+	<item>338|Ninsoare abundentă</item>
+	<item>350|Grindină</item>
+	<item>353|Averse de ploaie ușoară</item>
+	<item>356|Averse de ploaie moderată sau torențială</item>
+	<item>359|Averse de ploaie torențială</item>
+	<item>362|Averse de lapoviță ușoară</item>
+	<item>365|Averse de lapoviță moderată sau torențială</item>
+	<item>368|Averse de ninsoare ușoară</item>
+	<item>371|Averse de ninsoare moderată sau torențială</item>
+	<item>386|Ploi ușoare cu tunete pe alocuri</item>
+	<item>389|Ploaie moderată sau furtună cu tunete</item>
+	<item>392|Ninsoare ușoară cu tunete pe alocuri</item>
+	<item>395|Ninsoare moderată sau abundentă cu tunete</item>
+</string-array>
+</resources>

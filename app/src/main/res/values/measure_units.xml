@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="measure_unit_temp">Temperature</string>
+    <string name="measure_unit_speed">Wind speed</string>
+    <string-array name="measure_units_temp">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="measure_units_speed">
+        <item>km/h</item>
+        <item>mph</item>
+    </string-array>
+
+    <!-- Settings-related, do not translate -->
+    <string name="celsius" translatable="false">c</string>
+    <string name="fahrenheit" translatable="false">f</string>
+    <string name="kmh" translatable="false">kmh</string>
+    <string name="mph" translatable="false">mph</string>
+
+    <string-array name="measure_units_temp_values">
+        <item>@string/celsius</item>
+        <item>@string/fahrenheit</item>
+    </string-array>
+
+    <string-array name="measure_units_speed_values">
+        <item>@string/kmh</item>
+        <item>@string/mph</item>
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sunčano</item>
+	<item>116|Djelomična naoblaka</item>
+	<item>119|Oblačno</item>
+	<item>122|Tmurno</item>
+	<item>143|Magla</item>
+	<item>176|Moguća je slaba kiša</item>
+	<item>179|Moguć slab snijeg</item>
+	<item>182|Moguća je slaba susnježiva</item>
+	<item>185|Moguća je ledena sitna kiša</item>
+	<item>200|Moguća je grmljavina</item>
+	<item>227|Topljenje snijega</item>
+	<item>230|Snježna mećava</item>
+	<item>248|Magla</item>
+	<item>260|Ledena magla</item>
+	<item>263|Mjestimično sitna kiša</item>
+	<item>266|Sitna kiša</item>
+	<item>281|Ledena sitna kiša</item>
+	<item>284|Teško zamrzavanje</item>
+	<item>293|Mjestimično slaba kiša</item>
+	<item>296|Blaga kiša</item>
+	<item>299|Ponekad umjerena kiša</item>
+	<item>302|Umjerena kiša</item>
+	<item>305|Ponekad je kiša</item>
+	<item>308|Pljusak</item>
+	<item>311|Kruta kiša</item>
+	<item>314|Umjerena ili teška hladna kiša</item>
+	<item>317|Lagana susnježica</item>
+	<item>320|Umjerena ili jaka susnježica</item>
+	<item>323|Mjestimično slab snijeg</item>
+	<item>326|Slab snijeg</item>
+	<item>329|Mjestimično blag snijeg</item>
+	<item>332|Umjeren snijeg</item>
+	<item>335|Umjereno jak snijeg</item>
+	<item>338|Jak snijeg</item>
+	<item>350|Grad/tuča</item>
+	<item>353|Lagani pljusak</item>
+	<item>356|Umjeren ili jak pljusak</item>
+	<item>359|Prolom oblaka</item>
+	<item>362|Slaba kiša sa gradom</item>
+	<item>365|Umjerena ili jaka kiša sa gradom</item>
+	<item>368|Blaga susnježica</item>
+	<item>371|Umjerena ili jaka susnježica</item>
+	<item>386|Slaba kiša s grmljavinom</item>
+	<item>389|Umjerena ili jaka kiša s grmljavinom</item>
+	<item>392|Slabi snijeg s grmljavinom</item>
+	<item>395|Umjereni ili teški snijeg s grmljavinom</item>
+</string-array>
+</resources>

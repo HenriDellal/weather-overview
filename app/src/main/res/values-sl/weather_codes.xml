@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sončno</item>
+	<item>116|Delno oblačno</item>
+	<item>119|Oblačno</item>
+	<item>122|Pretežno oblačno</item>
+	<item>143|Megleno</item>
+	<item>176|Možne plohe</item>
+	<item>179|Možno občasno sneženje</item>
+	<item>182|Možen žled</item>
+	<item>185|Možna pomrznjena rosa</item>
+	<item>200|Možno neurje z grmenjem</item>
+	<item>227|Snežno neurje</item>
+	<item>230|Snežno neurje</item>
+	<item>248|Megla</item>
+	<item>260|Zmrznjena megla</item>
+	<item>263|Rahlo rosenje</item>
+	<item>266|Rahel dež</item>
+	<item>281|Zmrznjeno rosenje</item>
+	<item>284|Močno zmrznjeno rosenje</item>
+	<item>293|Občasno rahel dež</item>
+	<item>296|Rahel dež</item>
+	<item>299|Občasno droben dež</item>
+	<item>302|Droben dež</item>
+	<item>305|Občasno močan dež</item>
+	<item>308|Močan dež</item>
+	<item>311|Rahel zmrznjen dež</item>
+	<item>314|Zmrznjen dež</item>
+	<item>317|Rahel žled</item>
+	<item>320|Žled</item>
+	<item>323|Občasno rahlo sneženje</item>
+	<item>326|Rahel sneg</item>
+	<item>329|Občasno rahlo sneženje</item>
+	<item>332|Rahel sneg</item>
+	<item>335|Občasno močan sneg</item>
+	<item>338|Močan sneg</item>
+	<item>350|Led</item>
+	<item>353|Rahla ploha</item>
+	<item>356|Rahle ali močne plohe</item>
+	<item>359|Hudourniški dež</item>
+	<item>362|Rahel žled</item>
+	<item>365|Žled</item>
+	<item>368|Občasno rahlo sneženje</item>
+	<item>371|Rahle ali močne snežne padavine</item>
+	<item>386|Občasno rahel dež z grmenjem</item>
+	<item>389|Dež z grmenjem</item>
+	<item>392|Občasen sneg z grmenjem</item>
+	<item>395|Sneg z grmenjem</item>
+</string-array>
+</resources>

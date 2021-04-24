@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|ፀሐያማ</item>
+	<item>116|ከፊል ደመናማ</item>
+	<item>119|ደመናማ</item>
+	<item>122|ደመናማ</item>
+	<item>143|ጭጋግ</item>
+	<item>176|ዝናብ ሊዘንብ ይችላል</item>
+	<item>179|በረዶ ሊጥል ይችላል</item>
+	<item>182|አልፎ አልፎ በረዶ አዘል ዝናብ ሊዘንብ ይችላል</item>
+	<item>185|አልፎ አልፎ በረዶ አዘል ካፍያ ሊጥል ይችላል</item>
+	<item>200|</item>
+	<item>227|ነፋሻማ በረዶ</item>
+	<item>230|በረዶ አዘል አውሎ ነፋስ</item>
+	<item>248|ጭጋግ</item>
+	<item>260|በረዶ ጭጋግ</item>
+	<item>263|ቀላል ካፍያ</item>
+	<item>266|ቀላል ካፍያ</item>
+	<item>281|በረዶ ካፍያ</item>
+	<item>284|ከባድ በረዶ ካፍያ</item>
+	<item>293|አልፎ አልፎ ቀላል ዝናብ</item>
+	<item>296|ቀላል ዝናብ</item>
+	<item>299|አልፎ አልፎ መለስተኛ ዝናብ</item>
+	<item>302|መለስተኛ ዝናብ</item>
+	<item>305|አልፎ አልፎ ከባድ ዝናብ</item>
+	<item>308|ከባድ ዝናብ</item>
+	<item>311|ቀላል የበረዶ ዝናብ</item>
+	<item>314|መለስተኛ ወይም ከባድ የበረዶ ዝናብ</item>
+	<item>323|አልፎ አልፎ ቀላል በረዶ</item>
+	<item>326|ቀላል በረዶ</item>
+	<item>329|አልፎ አልፎ መለስተኛ በረዶ</item>
+	<item>332|መለስተኛ በረዶ</item>
+	<item>335|አልፎ አልፎ ከባድ በረዶ</item>
+	<item>338|ከባድ በረዶ</item>
+	<item>350|የበረዶ እንክብሎች</item>
+	<item>353|ቀላል የዝናብ ካፍያ</item>
+	<item>356|መለስተኛ ወይም ከባድ የዝናብ ካፍያ</item>
+	<item>359|ዶፍ ዝናብ</item>
+	<item>368|ቀላል የበረዶ ካፍያ</item>
+	<item>371|መለስተኛ ወይም ከባድ የበረዶ ካፍያ</item>
+	<item>386|ቀላል ዝናብ ከነጎድጓድ ጋር</item>
+	<item>389|መለስተኛ ወይም ከባድ ዝናብ ከነጎድጓድ ጋር</item>
+	<item>392|ቀላል በረዶ ከነጎድጓድ ጋር</item>
+	<item>395|መለስተኛ ወይም ከባድ በረዶ ከነጎድጓድ ጋር</item>
+</string-array>
+</resources>

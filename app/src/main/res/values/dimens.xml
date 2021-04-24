@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_cards">16dp</dimen>
+    <dimen name="text_size_big">32sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+</resources>

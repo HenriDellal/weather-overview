@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Weather Overview</string>
+    <string name="feels_like">Feels like %s%s</string>
+    <string name="wind_speed_kmh">Wind speed: %s km/h</string>
+    <string name="wind_speed_mph">Wind speed: %s mph</string>
+    <string name="humidity">Humidity: %s%%</string>
+    <string name="temp_range_celsius" translatable="false">%s..%s \u2103</string>
+    <string name="temp_range_fahrenheit" translatable="false">%s..%s \u2109</string>
+    <string name="location">Location</string>
+    <string name="preferences">Preferences</string>
+</resources>

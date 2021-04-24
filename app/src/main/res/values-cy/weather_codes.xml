@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Heulog</item>
+	<item>116|Rhannol gymylog</item>
+	<item>119|Cymylog</item>
+	<item>122|Cymylog</item>
+	<item>143|Niwlog</item>
+	<item>176|Glaw anghyson yn bosib</item>
+	<item>179|Eira anghyson yn bosib</item>
+	<item>182|Eirlaw anghyson yn bosib</item>
+	<item>185|Rhewi a glaw mân anghyson yn bosib</item>
+	<item>200|Mellt yn bosib</item>
+	<item>227|Eira yn cael ei chwythu</item>
+	<item>230|Storm eira</item>
+	<item>248|Niwl</item>
+	<item>260|Niwl rhewllyd</item>
+	<item>263|Glaw mân ysgafn anghyson</item>
+	<item>266|Glaw mân ysgafn</item>
+	<item>281|Glaw mân rhewllyd</item>
+	<item>284|Glaw mân rhewllyd trwm</item>
+	<item>293|Glaw ysgafn anghyson</item>
+	<item>296|Glaw ysgafn</item>
+	<item>299|Glaw cymedrol ar adegau</item>
+	<item>302|Glaw cymedrol</item>
+	<item>305|Glaw trwm ar adegau</item>
+	<item>308|Glaw trwm</item>
+	<item>311|Glaw rhewllyd ysgafn</item>
+	<item>314|Glaw rhewllyd trwm neu cymedrol</item>
+	<item>317|Eirlaw ysgafn</item>
+	<item>320|Eirlaw cymedrol neu trwn</item>
+	<item>323|Eira ysgafn anghyson</item>
+	<item>326|Eira ysgafn</item>
+	<item>329|Eira cymedrol anghyson</item>
+	<item>332|Eira cymedrol</item>
+	<item>335|Eira trwm anghyson</item>
+	<item>338|Eira trwm</item>
+	<item>350|Pelenni iâ</item>
+	<item>353|Cawod o law ysgafn</item>
+	<item>356|Cawod o law cymedrol neu trwm</item>
+	<item>359|Cawod o law trwm</item>
+	<item>362|Cawodydd o eirlaw ysgafn</item>
+	<item>365|Cawodydd o eirlaw cymedrol new trwm</item>
+	<item>368|Cawod o law ac eira ysgafn, Niwl</item>
+	<item>371|Cawodydd o eira cymedrol neu trwm</item>
+	<item>386|Glaw ysgafn anghyson gyda mellt</item>
+	<item>389|Glaw cymedrol neu trwm gyda mellt</item>
+	<item>392|Eira ysgafn anghyson gyda mellt</item>
+	<item>395|Eira cymedrol neu trwm gyda mellt</item>
+</string-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sonnig</item>
+	<item>116|Leicht Bewölkt</item>
+	<item>119|Wolkig</item>
+	<item>122|Bedeckt</item>
+	<item>143|Nebel</item>
+	<item>176|Stellenweise Regen möglich</item>
+	<item>179|Stellenweise Schnee möglich</item>
+	<item>182|Stellenweise Schneeregen möglich</item>
+	<item>185|Stellenweise gefrierende Nässe möglich</item>
+	<item>200|Gewitter möglich</item>
+	<item>227|Schneesturm</item>
+	<item>230|Blizzard</item>
+	<item>248|Nebel</item>
+	<item>260|Gefrierender Nebel</item>
+	<item>263|Stellenweise Nieselregen</item>
+	<item>266|Leichter Nieselregen</item>
+	<item>281|Gefrierender Nieselregen</item>
+	<item>284|Starker gefrierender Nieselregen</item>
+	<item>293|Stellenweise leichter Regen</item>
+	<item>296|Leichter Regen</item>
+	<item>299|Stellenweise gemäßigter Regen</item>
+	<item>302|Gemäßigter Regen</item>
+	<item>305|Stellenweise starker Regen</item>
+	<item>308|Starker Regen</item>
+	<item>311|Leichter gefrierender Regen</item>
+	<item>314|Gemäßigter oder starker gefrierender Regen</item>
+	<item>317|Leichter Schneeregen</item>
+	<item>320|Gemäßigter oder starker Schneeregen</item>
+	<item>323|Stellenweise leichter Schneefall</item>
+	<item>326|Leichter Schneefall</item>
+	<item>329|Stellenweise gemäßigter Schneefall</item>
+	<item>332|Gemäßigter Schneefall</item>
+	<item>335|Stellenweise starker Schneefall</item>
+	<item>338|Starker Schneefall</item>
+	<item>350|Eiskörner</item>
+	<item>353|Leichter Regen</item>
+	<item>356|Gemäßigter oder starker Regen</item>
+	<item>359|Wolkenbruch</item>
+	<item>362|Leichter Schneeregen</item>
+	<item>365|Gemäßigter oder starker Schneeregen</item>
+	<item>368|Leichter Schneefall</item>
+	<item>371|Gemäßigter oder starker Schneefall</item>
+	<item>386|Stellenweise leichter Regen mit Gewitter</item>
+	<item>389|Gemäßigter oder starker Regen mit Gewitter</item>
+	<item>392|Stellenweise leichter Schneefall mit Gewitter</item>
+	<item>395|Gemäßigter oder starker Schneefall mit Gewitter</item>
+</string-array>
+</resources>

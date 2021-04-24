@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Allegre</item>
+	<item>116|Pauc Nubilose</item>
+	<item>119|Nubilose</item>
+	<item>122|Gris</item>
+	<item>143|Nebula</item>
+	<item>176|Pauc pluvia possibile</item>
+	<item>179|Pauc nive possibile</item>
+	<item>182|Pauc nive miscite con pluvia</item>
+	<item>185|Pauc nive glacial con pluvia</item>
+	<item>200|Rar tonitro possibile</item>
+	<item>227|Ventose nive</item>
+	<item>230|Tempesta de nive</item>
+	<item>248|Bruma</item>
+	<item>260|Bruma glacial</item>
+	<item>263|Pauc pluvia</item>
+	<item>266|Pluveva</item>
+	<item>281|Pluveva glacial</item>
+	<item>284|Multe pluvia glacial</item>
+	<item>293|Pauc pluvia</item>
+	<item>296|Pluveva</item>
+	<item>299|Pluvia moderate a vices</item>
+	<item>302|Pluvia moderate</item>
+	<item>305|Multe pluvia a vices</item>
+	<item>308|Multe pluvia</item>
+	<item>311|Pauc pluvia glacial</item>
+	<item>314|Multe o moderate pluvia glacial</item>
+	<item>317|Pauc nive miscite con pluvia</item>
+	<item>320|Multe o moderate nive miscite</item>
+	<item>323|Breve nive</item>
+	<item>326|Pauc nive</item>
+	<item>329|Breve nive moderate</item>
+	<item>332|Nive moderate</item>
+	<item>335|Multe nive a veces</item>
+	<item>338|Multe nive</item>
+	<item>350|Bolletas de glacie</item>
+	<item>353|Pauc pluvia</item>
+	<item>356|Multe o moderate pluvia</item>
+	<item>359|Tempesta de pluvia</item>
+	<item>362|Pauc pluvia con glacie</item>
+	<item>365|Multe o moderate pluvia con glacie</item>
+	<item>368|Pauc nive con pluvia</item>
+	<item>371|Multe o moderate nive con pluvia</item>
+	<item>386|Pauc pluvia con tonitro</item>
+	<item>389|Moderate pluvia con tonitro</item>
+	<item>392|Pauc nive con tonitro</item>
+	<item>395|Moderate o multe nive con tonitro</item>
+</string-array>
+</resources>

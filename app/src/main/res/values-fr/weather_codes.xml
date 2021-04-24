@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Ensoleillé</item>
+	<item>116|Partiellement couvert</item>
+	<item>119|Nuageux</item>
+	<item>122|Couvert</item>
+	<item>143|Brumeux</item>
+	<item>176|Pluies éparses possibles</item>
+	<item>179|Chutes de neige éparses possibles</item>
+	<item>182|Chutes éparses de neige fondue possibles</item>
+	<item>185|Bruines givrantes éparses possibles</item>
+	<item>200|Orages possibles</item>
+	<item>227|Poudrerie</item>
+	<item>230|Blizzard</item>
+	<item>248|Brouillard</item>
+	<item>260|Brouillard givrant</item>
+	<item>263|Bruines éparses et légères</item>
+	<item>266|Bruine légère</item>
+	<item>281|Bruine givrante</item>
+	<item>284|Forte bruine givrante</item>
+	<item>293|Pluies éparses et légères</item>
+	<item>296|Pluie légère</item>
+	<item>299|Pluie modérée intermittente</item>
+	<item>302|Pluie modérée</item>
+	<item>305|Forte pluie intermittente</item>
+	<item>308|Forte pluie</item>
+	<item>311|Pluie verglaçante légère</item>
+	<item>314|Pluie verglaçante modérée à forte</item>
+	<item>317|Chutes légères de neige fondue</item>
+	<item>320|Chutes de neige fondue modérées à fortes</item>
+	<item>323|Chutes de neige éparses et légères</item>
+	<item>326|Chutes de neige légères</item>
+	<item>329|Chutes de neige éparses et modérées</item>
+	<item>332|Chutes de neige modérées</item>
+	<item>335|Fortes chutes de neige éparses</item>
+	<item>338|Fortes chutes de neige</item>
+	<item>350|Grésil</item>
+	<item>353|Averses légères</item>
+	<item>356|Averses modérées à fortes</item>
+	<item>359|Averses torrentielles</item>
+	<item>362|Averses légères de neige fondue</item>
+	<item>365|Averses de neige fondue modérées à fortes</item>
+	<item>368|Averses de neige légères</item>
+	<item>371|Averses de neige modérées à fortes</item>
+	<item>386|Pluies orageuses légères et éparses</item>
+	<item>389|Pluies orageuses modérées à fortes</item>
+	<item>392|Chutes de neige orageuses légères et éparses</item>
+	<item>395|Chutes de neige orageuses modérées à fortes</item>
+</string-array>
+</resources>

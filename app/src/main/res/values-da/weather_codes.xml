@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sol</item>
+	<item>116|Delvist skyet</item>
+	<item>119|Skyet</item>
+	<item>122|Overskyet</item>
+	<item>143|Diset</item>
+	<item>176|Skiftende regn</item>
+	<item>179|Skiftende sne</item>
+	<item>182|Skiftende slud</item>
+	<item>185|Skiftende kold småregn</item>
+	<item>200|Fare for torden</item>
+	<item>227|Snefygning</item>
+	<item>230|Snestorm</item>
+	<item>248|Tåge</item>
+	<item>260|Frysende tåge</item>
+	<item>263|Skiftende og let støvregn</item>
+	<item>266|Let støvregn</item>
+	<item>281|Kold støvregn</item>
+	<item>284|Kraftig kold regn</item>
+	<item>293|Skiftende let regn</item>
+	<item>296|Let regn</item>
+	<item>299|Skiftevist en smule regn</item>
+	<item>302|En smule regn</item>
+	<item>305|Skiftevist kraftig regn</item>
+	<item>308|Kraftig regn</item>
+	<item>311|Let og frysende regn</item>
+	<item>314|Moderat eller kraftig frysende regn</item>
+	<item>317|Let slud</item>
+	<item>320|Moderat eller kraftig slud</item>
+	<item>323|Byger af let sne</item>
+	<item>326|Let sne</item>
+	<item>329|Byger med moderat sne</item>
+	<item>332|Moderat sne</item>
+	<item>335|Byger med kraftig sne</item>
+	<item>338|Kraftig sne</item>
+	<item>350|Haglbyger</item>
+	<item>353|Lette regnbyger</item>
+	<item>356|Moderate eller kraftige regnbyger</item>
+	<item>359|Skybrud</item>
+	<item>362|Lette sludbyger</item>
+	<item>365|Moderate eller kraftige sludbyger</item>
+	<item>368|Lette snebyger</item>
+	<item>371|Moderate eller kraftige snebyger</item>
+	<item>386|Byger af let regn med torden</item>
+	<item>389|Moderat eller krafig regn med torden</item>
+	<item>392|Byger af let sne med torden</item>
+	<item>395|Moderat eller kraftig sne med torden</item>
+</string-array>
+</resources>

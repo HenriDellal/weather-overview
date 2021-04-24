@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        app:key="location"
+        app:defaultValue=""
+        app:title="@string/location" />
+    <PreferenceCategory
+        app:title="Measure units" >
+        <ListPreference
+            app:key="measure_unit_temp"
+            app:defaultValue="@string/celsius"
+            app:entries="@array/measure_units_temp"
+            app:entryValues="@array/measure_units_temp_values"
+            app:title="@string/measure_unit_temp" />
+        <ListPreference
+            app:key="measure_unit_speed"
+            app:defaultValue="@string/kmh"
+            app:entries="@array/measure_units_speed"
+            app:entryValues="@array/measure_units_speed_values"
+            app:title="@string/measure_unit_speed" />
+    </PreferenceCategory>
+</androidx.preference.PreferenceScreen>

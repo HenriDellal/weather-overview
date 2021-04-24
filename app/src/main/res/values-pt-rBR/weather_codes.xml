@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Ensolarado</item>
+	<item>116|Parcialmente encoberto</item>
+	<item>119|Encoberto</item>
+	<item>122|Nublado</item>
+	<item>143|Névoa</item>
+	<item>176|Possibilidade chuva fraca</item>
+	<item>179|Possibilidade neve fraca</item>
+	<item>182|Possibilidade granizo</item>
+	<item>185|Possibilidade chuvisco gelado</item>
+	<item>200|Possibilidade de pancadas de chuva</item>
+	<item>227|Neve com vento</item>
+	<item>230|Nevasca</item>
+	<item>248|Nevoeiro</item>
+	<item>260|Névoa congelante</item>
+	<item>263|Chuvisco irregualr</item>
+	<item>266|Chuvisco</item>
+	<item>281|Chuvisco gelado</item>
+	<item>284|Chuvisco muito gelado</item>
+	<item>293|Garoa irregular</item>
+	<item>296|Garoa</item>
+	<item>299|Chuva moderada ocasional</item>
+	<item>302|Chuva moderada</item>
+	<item>305|Chuva forte ocasional</item>
+	<item>308|Chuva forte</item>
+	<item>311|Garoa gelada</item>
+	<item>314|Chuva forte ou moderada gelada</item>
+	<item>317|Granizo fraco</item>
+	<item>320|Granizo moderado ou forte</item>
+	<item>323|Neve fraca irregular</item>
+	<item>326|Neve fraca</item>
+	<item>329|Neve moderada irregular</item>
+	<item>332|Neve moderada</item>
+	<item>335|Neve forte irregular</item>
+	<item>338|Neve forte</item>
+	<item>350|Pelotas de gelo</item>
+	<item>353|Chuveiro de garoa</item>
+	<item>356|Chuveiro de chuva moderada ou forte</item>
+	<item>359|Chuveiro de chuva torrencial</item>
+	<item>362|Chuveiro de granizo fraco</item>
+	<item>365|Chuveiro de granizo moderada ou forte</item>
+	<item>368|Chuveiro de neve fraca</item>
+	<item>371|Chuveiro de neve moderada ou forte</item>
+	<item>386|Tempestate com garoa irregular</item>
+	<item>389|Tempestade com chuva moderada ou forte</item>
+	<item>392|Tempestade com neve fraca</item>
+	<item>395|Tempestade com neve moderada ou forte</item>
+</string-array>
+</resources>

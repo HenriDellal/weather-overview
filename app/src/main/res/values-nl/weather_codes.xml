@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Zonnig</item>
+	<item>116|Deels bewolkt</item>
+	<item>119|Bewolkt</item>
+	<item>122|Bewolkt</item>
+	<item>143|Mist</item>
+	<item>176|Mogelijk plaatselijk regen</item>
+	<item>179|Mogelijk plaatselijk sneeuw</item>
+	<item>182|Mogelijk plaatselijk hagel</item>
+	<item>185|Mogelijk plaatselijk ijzel</item>
+	<item>200|Mogelijk een onweersbui</item>
+	<item>227|Sneeuw winden</item>
+	<item>230|Sneeuwstorm</item>
+	<item>248|Mist</item>
+	<item>260|Rijp</item>
+	<item>263|Plaatselijk motregen</item>
+	<item>266|Motregen</item>
+	<item>281|Ijzel</item>
+	<item>284|Zware ijzel</item>
+	<item>293|Plaatselijk lichte regen</item>
+	<item>296|Lichte regen</item>
+	<item>299|Af en toe regen</item>
+	<item>302|Regen</item>
+	<item>305|Af en toe zware regen</item>
+	<item>308|Zware regen</item>
+	<item>311|Lichte ijzel</item>
+	<item>314|Zware ijzel</item>
+	<item>317|Lichte hagel</item>
+	<item>320|Zware hagel</item>
+	<item>323|Plaatselijk lichte sneeuw</item>
+	<item>326|Lichte sneeuw</item>
+	<item>329|Plaatselijke sneeuw</item>
+	<item>332|Sneeuw</item>
+	<item>335|Plaatselijk zware sneeuw</item>
+	<item>338|Zware sneeuw</item>
+	<item>350|Hagel</item>
+	<item>353|Lichte regenbuien</item>
+	<item>356|Regenbuien</item>
+	<item>359|Extreem zware regenbuien</item>
+	<item>362|Lichte hagelbuien</item>
+	<item>365|Hagelbuien</item>
+	<item>368|Lichte sneeuwbuien</item>
+	<item>371|Sneeuwbuien</item>
+	<item>386|Plaatselijk lichte regen met on</item>
+	<item>389|Regen met onweer</item>
+	<item>392|Plaatselijk lichte sneeuw met o</item>
+	<item>395|Sneeuw met onweer</item>
+</string-array>
+</resources>

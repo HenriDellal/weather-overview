@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Päikeseline</item>
+	<item>116|Vahelduv pilvisus</item>
+	<item>119|Pilvine</item>
+	<item>122|Sombune</item>
+	<item>143|Uduvine</item>
+	<item>176|Paiguti vihmasaju võimalus</item>
+	<item>179|Paiguti lumesaju võimalus</item>
+	<item>182|Paiguti lörtsisaju võimalus</item>
+	<item>185|Paiguti jääudu võimalus</item>
+	<item>200|Äikese võimalus</item>
+	<item>227|Tuisk</item>
+	<item>230|Lumetorm</item>
+	<item>248|Udu</item>
+	<item>260|Jääudu</item>
+	<item>263|Paiguti nõrk uduvihm</item>
+	<item>266|Nõrk uduvihm</item>
+	<item>281|Jääudu</item>
+	<item>284|Tugev uduvihm</item>
+	<item>293|Vahelduv nõrk vihm</item>
+	<item>296|Nõrk vihm</item>
+	<item>299|Vahelduv mõõdukas vihm</item>
+	<item>302|Mõõdukas vihm</item>
+	<item>305|Vahelduv tugev vihm</item>
+	<item>308|Tugev vihm</item>
+	<item>311|Nõrk jäävihm</item>
+	<item>314|Mõõdukas või tugev jäävihm</item>
+	<item>317|Nõrk lörtsisadu</item>
+	<item>320|Mõõdukas või tugev lörtsisadu</item>
+	<item>323|Paiguti nõrk lumesadu</item>
+	<item>326|Nõrk lumesadu</item>
+	<item>329|Paiguti mõõdukas lumesadu</item>
+	<item>332|Mõõdukas lumesadu</item>
+	<item>335|Paiguti tugev lumesadu</item>
+	<item>338|Tugev lumesadu</item>
+	<item>350|Rahe</item>
+	<item>353|Nõrk hoogvihm</item>
+	<item>356|Mõõdukas või tugev hoogvihm</item>
+	<item>359|Padu hoogvihm</item>
+	<item>362|Nõrk hooglörts</item>
+	<item>365|Mõõdukas või tugev hooglörts</item>
+	<item>368|Nõrk hooglumi</item>
+	<item>371|Mõõdukas või tugev hooglumi</item>
+	<item>386|Paiguti nõrk vihm äikesega</item>
+	<item>389|Mõõdukas või tugev vihm äikesega</item>
+	<item>392|Paiguti nõrk lumesadu äikesega</item>
+	<item>395|Mõõdukas või tugev lumesadu äikesega</item>
+</string-array>
+</resources>

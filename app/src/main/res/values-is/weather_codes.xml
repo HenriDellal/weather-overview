@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sól</item>
+	<item>116|Léttskýjað</item>
+	<item>119|Skýjað</item>
+	<item>122|Alskýjað</item>
+	<item>143|Mistur</item>
+	<item>176|Hætta á rigningu á köflum</item>
+	<item>179|Hætta á snjókomu á köflum</item>
+	<item>182|Hætta á slyddu á köflum</item>
+	<item>185|Hætta á frostúða á köflum</item>
+	<item>200|Hætta á þrumuveðri</item>
+	<item>227|Skafrenningur</item>
+	<item>230|Snjóbylur</item>
+	<item>248|Þoka</item>
+	<item>260|Frostþoka</item>
+	<item>263|Lítilsháttar súld á köflum</item>
+	<item>266|Lítilsháttar súld</item>
+	<item>281|Frostúði</item>
+	<item>284|Mikill frostúði</item>
+	<item>293|Lítilsháttar rigning á köflum</item>
+	<item>296|Lítilsháttar rigning</item>
+	<item>299|Dálítil rigning á köflum</item>
+	<item>302|Dálítil rigning</item>
+	<item>305|Mikil rigning á köflum</item>
+	<item>308|Mikil rigning</item>
+	<item>311|Lítilsháttar frostrigning</item>
+	<item>314|Dálítið eða mikið frostregn</item>
+	<item>317|Lítilsháttar slydda</item>
+	<item>320|Dálítil eða mikil slydda</item>
+	<item>323|Lítilsháttar snjókoma á köflum</item>
+	<item>326|Lítilsháttar snjókoma</item>
+	<item>329|Dálítil snjókoma á köflum</item>
+	<item>332|Dálítil snjókoma</item>
+	<item>335|Mikill snjókoma á köflum</item>
+	<item>338|Mikill snjókoma</item>
+	<item>350|Haglél</item>
+	<item>353|Skúrir</item>
+	<item>356|Dálitlir eða mikilir Skúrir</item>
+	<item>359|Úrhellis rigning</item>
+	<item>362|Slydduél</item>
+	<item>365|Dálítil eða mikil slydduél</item>
+	<item>368|Lítilshátta Snjóél</item>
+	<item>371|Dálítil eða mikil snjóél</item>
+	<item>386|Lítilsháttar skúrir með þrumuveðri á köflum</item>
+	<item>389|Dálítil eða mikil rigning með þrumuveðri</item>
+	<item>392|Lítilsháttar él með þrumuveðri á köflum</item>
+	<item>395|Dálítil eða mikill snjórkoma með þrumuveðri</item>
+</string-array>
+</resources>

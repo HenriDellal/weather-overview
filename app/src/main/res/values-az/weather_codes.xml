@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Günəşli</item>
+	<item>116|Dəyişkən buludlu</item>
+	<item>119|Buludlu</item>
+	<item>122|Buludlu</item>
+	<item>143|Çən</item>
+	<item>176|Bəzi yerlərdə yagış</item>
+	<item>179|Bəzi yerlərdə qar</item>
+	<item>182|Bəzi yerlərdə qar və yagış</item>
+	<item>185|Bəzi yerlərdə soyuq çisklinli hava</item>
+	<item>200|Bəzi yerlərdə tufan</item>
+	<item>227|Yüngül küləkli qar</item>
+	<item>230|Çovqun</item>
+	<item>248|Duman</item>
+	<item>260|Güclü soyuq duman</item>
+	<item>263|Bəzi yerlərdə zəif çiskin</item>
+	<item>266|zəif çiskin</item>
+	<item>281|Soyuq çiskin</item>
+	<item>284|Güclü soyuq çiskin</item>
+	<item>293|Bəzi yerlərdə yüngül yagış</item>
+	<item>296|Yüngül yagiş</item>
+	<item>299|Bəzi vaxtlarda mülayim yagış</item>
+	<item>302|Mülayim yagış</item>
+	<item>305|Bəzi vaxtlarda güclü yagış</item>
+	<item>308|Güclü yagış</item>
+	<item>311|Zəif soyuq yagış</item>
+	<item>314|Mülayim yaxud güclü soyuq yagış</item>
+	<item>317|Yüngül yagış və qar</item>
+	<item>320|Mülayim yaxud güclü yagış və qar</item>
+	<item>323|Bəzi yerlərdə yüngül qar</item>
+	<item>326|Yüngül qar</item>
+	<item>329|Bəzi yerlərdə mülayim qar</item>
+	<item>332|Mülayim qar</item>
+	<item>335|Bəzi yerlərdə güclü qar</item>
+	<item>338|Güclü qar</item>
+	<item>350|Buzlu yagış</item>
+	<item>353|Yüngül leysanlı yagış</item>
+	<item>356|Mülayim yaxud güclü leysanlı yagış</item>
+	<item>359|Çox güclü leysan</item>
+	<item>362|Yüngül leysanlı yagış və sulu qar</item>
+	<item>365|Yüngül qar</item>
+	<item>368|Yüngül leysanlı yagış və qar</item>
+	<item>371|Mülayim yaxud güclü qarlı leysan</item>
+	<item>386|Bəzi yerlərdə yüngül tufan və yagış</item>
+	<item>389|Mülayim yaxud güclü yagış və tufan</item>
+	<item>392|Bəzi yerlərdə yüngül tufan və qar</item>
+	<item>395|Mülayim yaxud güclü qar və tufan</item>
+</string-array>
+</resources>

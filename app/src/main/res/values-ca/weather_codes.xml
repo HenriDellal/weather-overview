@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Assolellat</item>
+	<item>116|Parcialment ennuvolat</item>
+	<item>119|Ennuvolat</item>
+	<item>122|Molt ennuvolat</item>
+	<item>143|Boirina</item>
+	<item>176|Possible pluja intermitent</item>
+	<item>179|Possible neu intermitent</item>
+	<item>182|Possible aiguaneu intermitent</item>
+	<item>185|Possible plugim gelat intermitent</item>
+	<item>200|Possible tempesta elèctrica</item>
+	<item>227|Tempesta de neu</item>
+	<item>230|Torb</item>
+	<item>248|Boira</item>
+	<item>260|Boira gebradora</item>
+	<item>263|Plugim suau intermitent</item>
+	<item>266|Plugim suau</item>
+	<item>281|Plugim gelat</item>
+	<item>284|Plugim gelat intens</item>
+	<item>293|Pluja suau intermitent</item>
+	<item>296|Pluja suau</item>
+	<item>299|Pluja moderada puntual</item>
+	<item>302|Pluja moderada</item>
+	<item>305|Pluja forta puntual</item>
+	<item>308|Pluja forta</item>
+	<item>311|Calamarsa</item>
+	<item>314|Pedra o granís</item>
+	<item>317|Aiguaneu suau</item>
+	<item>320|Aiguaneu moderada o forta</item>
+	<item>323|Nevada suau intermitent</item>
+	<item>326|Nevada suau</item>
+	<item>329|Nevada moderada intermitent</item>
+	<item>332|Nevada moderada</item>
+	<item>335|Nevada forta intermitent</item>
+	<item>338|Nevada forta</item>
+	<item>350|Gebra</item>
+	<item>353|Ruixats de pluja suau</item>
+	<item>356|Ruixats de pluja moderada o forta</item>
+	<item>359|Ruixats de pluja torrencial</item>
+	<item>362|Ruixats d\'aiguaneu suau</item>
+	<item>365|Ruixats d\'aiguaneu moderada o forta</item>
+	<item>368|Ruixats de neu suau</item>
+	<item>371|Nevada moderada o forta</item>
+	<item>386|Intervals de pluges amb trons</item>
+	<item>389|Pluja moderada o forta amb trons</item>
+	<item>392|Nevada lleugera intermitent amb trons</item>
+	<item>395|Nevada moderada o forta amb trons</item>
+</string-array>
+</resources>

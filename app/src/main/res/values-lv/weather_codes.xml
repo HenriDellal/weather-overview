@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Saulains</item>
+	<item>116|Daļēji mākoņains</item>
+	<item>119|Mākoņains</item>
+	<item>122|Apmācies</item>
+	<item>143|Viegla migla</item>
+	<item>176|Vietām iespējams lietus</item>
+	<item>179|Vietām iespējams sniegs</item>
+	<item>182|Vietām iespējams sals</item>
+	<item>185|Vietām iespējams auksts lietus</item>
+	<item>200|Iespējams pērkons</item>
+	<item>227|Sniegputenis</item>
+	<item>230|Sniega vētra</item>
+	<item>248|Migla</item>
+	<item>260|Auksta migla</item>
+	<item>263|Vietām viegli smidzina</item>
+	<item>266|Viegli smidzina</item>
+	<item>281|Smalks un auksts lietus</item>
+	<item>284|Spēcīgs auksts lietus</item>
+	<item>293|Vietām viegls lietus</item>
+	<item>296|Viegls lietus</item>
+	<item>299|Īslaicīgs lietus</item>
+	<item>302|Lietus</item>
+	<item>305|Īslaicīgs stiprs lietus</item>
+	<item>308|Stiprs</item>
+	<item>311|Viegls un auksts lietus</item>
+	<item>314|Mērens/Stiprs un auksts lietus</item>
+	<item>317|Viegls un auksts lietus</item>
+	<item>320|Mērens/Stiprs un auksts lietus</item>
+	<item>323|Vietām viegls sniegs</item>
+	<item>326|Viegls sniegs</item>
+	<item>329|Vietām vidējs sniegs</item>
+	<item>332|Sniegs</item>
+	<item>335|Vietām stiprs sniegs</item>
+	<item>338|Stiprs sniegs</item>
+	<item>350|Krusa</item>
+	<item>353|Viegla lietus duša</item>
+	<item>356|Mērena/Stipra lietus duša</item>
+	<item>359|Stipra lietus duša</item>
+	<item>362|Viegla un auksta lietus duša</item>
+	<item>365|Viegls sniegs</item>
+	<item>368|Viegla lietus duša ar sniegu</item>
+	<item>371|Mērena/Stipra lietus duša ar sniegu</item>
+	<item>386|Vietām viegls lietus ar pērkona negaisu</item>
+	<item>389|Mērens/Stiprs lietus ar pērkona negaisu</item>
+	<item>392|Vietām viegls sniegs ar pērkona negaisu</item>
+	<item>395|Mērens/Stiprs sniegs ar pērkona negaisu</item>
+</string-array>
+</resources>

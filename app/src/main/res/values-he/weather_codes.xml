@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|שמשי</item>
+	<item>116|מעונן חלקית</item>
+	<item>119|מעונן</item>
+	<item>122|מעונן</item>
+	<item>143|ערפל</item>
+	<item>176|סיכוי לגשם מקומי</item>
+	<item>179|סיכוי לשלג מקומי</item>
+	<item>182|סיכוי לגשם מעורב בשלג מקומי</item>
+	<item>185|סיכוי לברד מקומי</item>
+	<item>200|סיכוי לסופת ברקים</item>
+	<item>227|משבי שלג</item>
+	<item>230|סופת שלג</item>
+	<item>248|ערפל</item>
+	<item>260|קרה</item>
+	<item>263|ברד מקומי קל</item>
+	<item>266|ברד קל</item>
+	<item>281|ברד</item>
+	<item>284|ברד כבד</item>
+	<item>293|גשם מקומי קל</item>
+	<item>296|גשם קל</item>
+	<item>299|גשם לסירוגין</item>
+	<item>302|גשם</item>
+	<item>305|גשם כבד לסירוגין</item>
+	<item>308|גשם כבד</item>
+	<item>311|גשם קופא קל</item>
+	<item>314|גשם קופא בינוני עד כבד</item>
+	<item>317|גשם מעורב בשלג קל</item>
+	<item>320|גשם מעורב בשלג בינוני עד כבד</item>
+	<item>323|שלג מקומי קל</item>
+	<item>326|שלג קל</item>
+	<item>329|שלג מקומי בינוני</item>
+	<item>332|שלג בינוני</item>
+	<item>335|שלג מקומי כבד</item>
+	<item>338|שלג כבד</item>
+	<item>350|ברד</item>
+	<item>353|גשם קל</item>
+	<item>356|גשם בינוני עד כבד</item>
+	<item>359|ממטרים כבדים</item>
+	<item>362|גשם מעורב בשלג קל</item>
+	<item>365|גשם מעורב בשלג בינוני עד כבד</item>
+	<item>368|שלג קל</item>
+	<item>371|שלג בינוני עד כבד</item>
+	<item>386|גשם מקומי קל ורעמים</item>
+	<item>389|גשם בינוני עד כבד ורעמים</item>
+	<item>392|שלג קל ורעמים</item>
+	<item>395|שלג בינוני עד כבד ורעמים</item>
+</string-array>
+</resources>

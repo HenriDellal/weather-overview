@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Solelh</item>
+	<item>116|Nivolós en partida</item>
+	<item>119|Nivolós</item>
+	<item>122|Ennivolat</item>
+	<item>143|Brumós</item>
+	<item>176|Possiblas raissas esparpalhadas</item>
+	<item>179|Possiblas nevadas esparpalhadas</item>
+	<item>182|Possiblas nèus fondudas esparpalhadas</item>
+	<item>185|Possiblas plovinas gelibrantas esparpalhadas</item>
+	<item>200|Auratges possibles</item>
+	<item>227|Nèu e vent</item>
+	<item>230|Blisard</item>
+	<item>248|Fums</item>
+	<item>260|Nèbla gelibranta</item>
+	<item>263|Plovina leugièra esparpalhada</item>
+	<item>266|Plovina leugièra</item>
+	<item>281|Plovina gelibranta</item>
+	<item>284|Fòrta plovina gelibranta</item>
+	<item>293|Plugeta fina</item>
+	<item>296|Plovina</item>
+	<item>299|Pluèja moderada intermitenta</item>
+	<item>302|Pluèja moderada</item>
+	<item>305|Forte pluie intermittente</item>
+	<item>308|Raissa</item>
+	<item>311|Pluie verglaçante légère</item>
+	<item>314|Pluie verglaçante modérée à forte</item>
+	<item>317|Aiganèu leugièra</item>
+	<item>320|Aiganèu moderada o fòrta</item>
+	<item>323|Nevada esparpalhada e leugièra</item>
+	<item>326|Nevada leugièra</item>
+	<item>329|Nevada esparpalhada parciala</item>
+	<item>332|Nevada moderada</item>
+	<item>335|Nevada fòrta parciala</item>
+	<item>338|Nevada fòrta</item>
+	<item>350|Pèiras de glaça</item>
+	<item>353|Pluèja leugièra</item>
+	<item>356|Pluèja moderada a fòrta</item>
+	<item>359|Pluèja torrenciala</item>
+	<item>362|Granissa leugièra</item>
+	<item>365|Granissa moderada a fòrta</item>
+	<item>368|Nevadas leugièra</item>
+	<item>371|Granissa moderada a violenta</item>
+	<item>386|Pluèja auratjosa leugièra esparpalhada</item>
+	<item>389|Pluèja auratjosa moderada a violenta</item>
+	<item>392|Nevada auratjosa esparpalhada e leugièra</item>
+	<item>395|Nevada auratjosa moderada a violenta</item>
+</string-array>
+</resources>

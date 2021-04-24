@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Soleggiato</item>
+	<item>116|Parzialmente nuvoloso</item>
+	<item>119|Nuvoloso</item>
+	<item>122|Coperto</item>
+	<item>143|Nebbia</item>
+	<item>176|Possibile pioggia a zone</item>
+	<item>179|Possibili nevicate a zone</item>
+	<item>182|Possibile nevischio a zone</item>
+	<item>185|Possibile pioviggine ghiacciata</item>
+	<item>200|Possibili violenti temporali improvvisi</item>
+	<item>227|Neve a raffiche</item>
+	<item>230|Bufera di neve</item>
+	<item>248|Nebbia</item>
+	<item>260|Nebbia gelata</item>
+	<item>263|Pioggerellina leggera a zone</item>
+	<item>266|Pioggerellina leggera</item>
+	<item>281|Pioggia gelata</item>
+	<item>284|Pioviggine ghiacciata</item>
+	<item>293|Pioggia leggera a zone</item>
+	<item>296|Pioggia leggera</item>
+	<item>299|Pioggia moderata irregolare</item>
+	<item>302|Pioggia moderata</item>
+	<item>305|Pioggia forte irregolare</item>
+	<item>308|Pioggia forte</item>
+	<item>311|Pioggia leggera ghiacciata</item>
+	<item>314|Pioggia gelata moderata o pesante</item>
+	<item>317|Nevischio leggero</item>
+	<item>320|Nevischio moderato o pesante</item>
+	<item>323|Neve leggera a zone chiare</item>
+	<item>326|Neve leggera</item>
+	<item>329|Neve moderata a zone</item>
+	<item>332|Neve moderata</item>
+	<item>335|Abbondante nevicata a zone</item>
+	<item>338|Abbondante nevicata</item>
+	<item>350|Grandine</item>
+	<item>353|Pioggia leggera a scrosci</item>
+	<item>356|Pioggia moderata o intensa a scrosci</item>
+	<item>359|Piogge torrenziali a scrosci</item>
+	<item>362|Nevischio leggero a colpi</item>
+	<item>365|Rovesci di pioggia moderati o pesanti</item>
+	<item>368|Deboli rovesci di neve</item>
+	<item>371|Rovesci di neve moderati o abbondanti</item>
+	<item>386|Pioggia leggera con tuoni e fulmini</item>
+	<item>389|Pioggia moderata o intensa con tuoni e fulmini</item>
+	<item>392|Neve leggera a zone con tuoni</item>
+	<item>395|Neve moderata o pesante con tuoni</item>
+</string-array>
+</resources>

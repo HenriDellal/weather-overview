@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sunny</item>
+	<item>116|Partly cloudy</item>
+	<item>119|Cloudy</item>
+	<item>122|Overcast</item>
+	<item>143|Mist</item>
+	<item>176|Patchy rain possible</item>
+	<item>179|Patchy snow possible</item>
+	<item>182|Patchy sleet possible</item>
+	<item>185|Patchy freezing drizzle possible</item>
+	<item>200|Thundery outbreaks possible</item>
+	<item>227|Blowing snow</item>
+	<item>230|Blizzard</item>
+	<item>248|Fog</item>
+	<item>260|Freezing fog</item>
+	<item>263|Patchy light drizzle</item>
+	<item>266|Light drizzle</item>
+	<item>281|Freezing drizzle</item>
+	<item>284|Heavy freezing drizzle</item>
+	<item>293|Patchy light rain</item>
+	<item>296|Light rain</item>
+	<item>299|Moderate rain at times</item>
+	<item>302|Moderate rain</item>
+	<item>305|Heavy rain at times</item>
+	<item>308|Heavy rain</item>
+	<item>311|Light freezing rain</item>
+	<item>314|Moderate or heavy freezing rain</item>
+	<item>317|Light sleet</item>
+	<item>320|Moderate or heavy sleet</item>
+	<item>323|Patchy light snow</item>
+	<item>326|Light snow</item>
+	<item>329|Patchy moderate snow</item>
+	<item>332|Moderate snow</item>
+	<item>335|Patchy heavy snow</item>
+	<item>338|Heavy snow</item>
+	<item>350|Ice pellets</item>
+	<item>353|Light rain shower</item>
+	<item>356|Moderate or heavy rain shower</item>
+	<item>359|Torrential rain shower</item>
+	<item>362|Light sleet showers</item>
+	<item>365|Moderate or heavy sleet showers</item>
+	<item>368|Light snow showers</item>
+	<item>371|Moderate or heavy snow showers</item>
+	<item>386|Patchy light rain with thunder</item>
+	<item>389|Moderate or heavy rain with thunder</item>
+	<item>392|Patchy light snow with thunder</item>
+	<item>395|Moderate or heavy snow with thunder</item>
+</string-array>
+</resources>

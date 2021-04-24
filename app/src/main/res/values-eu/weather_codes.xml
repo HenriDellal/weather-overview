@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>114|Oskarbia</item>
+	<item>113|Eguzkitsu</item>
+	<item>116|Neurri batean hodeitsu</item>
+	<item>119|Hodeitsu</item>
+	<item>122|Iluna</item>
+	<item>143|Lanbroa</item>
+	<item>176|Posible euri irregularra</item>
+	<item>179|Posible elurbusti irregularra</item>
+	<item>182|Posible elurbusti irregularra</item>
+	<item>185|Posible zirimiri hotz irregularra</item>
+	<item>200|Posible ekaitz agerraldi</item>
+	<item>227|Elur-ekaitza</item>
+	<item>230|Elur-ekaitza</item>
+	<item>248|Lainoa</item>
+	<item>260|Laino hotza</item>
+	<item>263|Garo irregularra</item>
+	<item>266|Garoa</item>
+	<item>281|Garo hotza</item>
+	<item>284|Zirimiri hotz-hotza</item>
+	<item>293|Zirimiri irregularra</item>
+	<item>296|Zirimiri</item>
+	<item>299|Noizbehinkako euri ertaina</item>
+	<item>302|Euri ertaina</item>
+	<item>305|Noizbehinkako euri-zaparrada</item>
+	<item>308|Euri-zaparrada</item>
+	<item>311|Zirimiri hotza</item>
+	<item>314|Euri ertain edo zaparrada hotza</item>
+	<item>317|Elurbusti arina</item>
+	<item>320|Elurbusti ertain edo gogorra</item>
+	<item>323|Gazura irregularra</item>
+	<item>326|Gazura</item>
+	<item>329|Noizbehinkako elur ertaina</item>
+	<item>332|Elur ertaina</item>
+	<item>335|Nieve pesada irregular</item>
+	<item>338|Nieve pesada</item>
+	<item>350|Txingorra</item>
+	<item>353|Zaparrada arina</item>
+	<item>356|Zaparrada ertain edo gogorra</item>
+	<item>359|Uholde-zaparrada</item>
+	<item>362|Elurbusti zaparrada arina</item>
+	<item>365|Elurbusti zaparrada ertaina edo gogorra</item>
+	<item>368|Elur zaparrada arina</item>
+	<item>371|Elur zaparrada ertaina edo gogorra</item>
+	<item>386|Zirimiri irregularra trumoiekin</item>
+	<item>389|Euri ertaina edo gogorra trumoiekin</item>
+	<item>392|Elur arina irregularra trumoiekin</item>
+	<item>395|Elur ertaina edo gogorra trumoiekin</item>
+</string-array>
+</resources>

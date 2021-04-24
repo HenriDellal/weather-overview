@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Cerah</item>
+	<item>116|Sebagian berawan</item>
+	<item>119|Berawan</item>
+	<item>122|Mendung</item>
+	<item>143|Berkabut</item>
+	<item>176|Mungkin hujan tidak merata</item>
+	<item>179|Mungkin bersalju tidak merata</item>
+	<item>182|Mungkin hujan es tidak merata</item>
+	<item>185|Mungkin gerimis beku tidak merata</item>
+	<item>200|Mungkin banyak petir</item>
+	<item>227|Hembusan salju</item>
+	<item>230|Badai salju</item>
+	<item>248|Kabut</item>
+	<item>260|Kabut beku</item>
+	<item>263|Gerimis ringan tidak merata</item>
+	<item>266|Gerimis ringan</item>
+	<item>281|Gerimis beku</item>
+	<item>284|Gerimis beku rapat</item>
+	<item>293|Hujan ringan tidak merata</item>
+	<item>296|Hujan ringan</item>
+	<item>299|Hujan di beberapa waktu</item>
+	<item>302|Hujan</item>
+	<item>305|Hujan lebat di beberapa waktu</item>
+	<item>308|Hujan lebat</item>
+	<item>311|Hujan beku ringan</item>
+	<item>314|Hujan beku</item>
+	<item>317|Hujan es ringan</item>
+	<item>320|Hujan es</item>
+	<item>323|Salju ringan tidak merata</item>
+	<item>326|Salju ringan</item>
+	<item>329|Salju tidak merata</item>
+	<item>332|Salju</item>
+	<item>335|Salju lebat tidak merata</item>
+	<item>338|Salju lebat</item>
+	<item>350|Bongkahan es</item>
+	<item>353|Hujan ringan</item>
+	<item>356|Hujan lebat</item>
+	<item>359|Hujan sangat lebat</item>
+	<item>362|Hujan es ringan</item>
+	<item>365|Hujan es</item>
+	<item>368|Hujan salju ringan</item>
+	<item>371|Hujan salju</item>
+	<item>386|Hujan ringan dengan petir tidak merata</item>
+	<item>389|Hujan dengan petir</item>
+	<item>392|Salju ringan dengan petir tidak merata</item>
+	<item>395|Salju dengan petir</item>
+</string-array>
+</resources>

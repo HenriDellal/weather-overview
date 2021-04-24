@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sol</item>
+	<item>116|Delvis skyet</item>
+	<item>119|Skyet</item>
+	<item>122|Overskyet</item>
+	<item>143|Dis</item>
+	<item>176|Sjanser for skiftende regn</item>
+	<item>179|Sjanser for skiftende snø</item>
+	<item>182|Sjanser for skiftende sludd</item>
+	<item>185|Sjanser for skiftende, kaldt duskregn</item>
+	<item>200|Fare for torden</item>
+	<item>227|Snøfokk</item>
+	<item>230|Snøstorm</item>
+	<item>248|Tåke</item>
+	<item>260|Kald tåke</item>
+	<item>263|Skiftende, lett duskregn</item>
+	<item>266|Lett duskregn</item>
+	<item>281|Kaldt duskregn</item>
+	<item>284|Kraftig, kaldt duskregn</item>
+	<item>293|Skiftende, lett regn</item>
+	<item>296|Lett regn</item>
+	<item>299|Til tider noe regn</item>
+	<item>302|Noe regn</item>
+	<item>305|Til tider kraftig regn</item>
+	<item>308|Kraftig regn</item>
+	<item>311|Lett, kaldt regn</item>
+	<item>314|Moderat eller kraftig kaldt regn</item>
+	<item>317|Lett sludd</item>
+	<item>320|Moderat eller kraftig sludd</item>
+	<item>323|Skiftende, lett snø</item>
+	<item>326|Lett snø</item>
+	<item>329|Skiftende, moderat snø</item>
+	<item>332|Noe snø</item>
+	<item>335|Skiftende, kraftig snøfall</item>
+	<item>338|Kraftig snøfall</item>
+	<item>350|Hagl</item>
+	<item>353|Lett regnskur</item>
+	<item>356|Moderat eller tung regnskur</item>
+	<item>359|Styrtregn</item>
+	<item>362|Lette sluddbyger</item>
+	<item>365|Moderate eller tunge sluddbyger</item>
+	<item>368|Lette snøbyger</item>
+	<item>371|Moderate eller kraftige snøbyger</item>
+	<item>386|Skiftende, lett regn med torden</item>
+	<item>389|Moderat eller krafit regn med torden</item>
+	<item>392|Skiftende, lett snø med torden</item>
+	<item>395|Moderat eller krafitg snø med torden</item>
+</string-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Suna</item>
+	<item>116|Parte nuba</item>
+	<item>119|Nuba</item>
+	<item>122|Sensuna</item>
+	<item>143|Nebulo</item>
+	<item>176|Flikeca pluvo ebla</item>
+	<item>179|Flikeca neĝo ebla</item>
+	<item>182|Flikeca hajlneĝo ebla</item>
+	<item>185|Flikeca frosta drizelo ebla</item>
+	<item>200|Tondro ebla</item>
+	<item>227|Blova neĝo</item>
+	<item>230|Blizardo</item>
+	<item>248|Nebulo</item>
+	<item>260|Frosta nebulo</item>
+	<item>263|Flikeca malforta drizelo</item>
+	<item>266|Malforta drizelo</item>
+	<item>281|Frosta drizelo</item>
+	<item>284|Forta frosta drizelo</item>
+	<item>293|Flikeca forta pluvo</item>
+	<item>296|Malforta pluvo</item>
+	<item>299|Modera pluvo foje</item>
+	<item>302|Modera pluvo</item>
+	<item>305|Forta pluvvo foje</item>
+	<item>308|Forta pluvo</item>
+	<item>311|Malforta glacipluvo</item>
+	<item>314|Modera aŭ forta glacipluvo</item>
+	<item>317|Malforta grajlo</item>
+	<item>320|Modera aŭ forta hajlneĝo</item>
+	<item>323|Flikeca malforta neĝo</item>
+	<item>326|Malforta neĝo</item>
+	<item>329|Flikeca modera neĝo</item>
+	<item>332|Modera neĝo</item>
+	<item>335|Flikeca forta neĝo</item>
+	<item>338|Forta neĝo</item>
+	<item>350|Grajlo</item>
+	<item>353|Malforta pluvoverŝo</item>
+	<item>356|Modera pluvoverŝo</item>
+	<item>359|Torrenta pluvoverŝo</item>
+	<item>362|Malforta glacipluvego</item>
+	<item>365|Modera aŭ forta glacipluvego</item>
+	<item>368|Malforta hajlneĝo</item>
+	<item>371|Modera aŭ forta neĝipluvego</item>
+	<item>386|Flikeca malforta pluvo kun tondro</item>
+	<item>389|Modera aŭ forta pluvo kun tondro</item>
+	<item>392|Flikeca malforta neĝo kun tondro</item>
+	<item>395|Modera aŭ forta neĝo kun tondro</item>
+</string-array>
+</resources>

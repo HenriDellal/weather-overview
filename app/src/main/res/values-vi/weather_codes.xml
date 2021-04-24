@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Trời nắng</item>
+	<item>116|Có mây</item>
+	<item>119|Nhiều mây</item>
+	<item>122|Âm u</item>
+	<item>143|Sương mù</item>
+	<item>176|Có mưa rải rác</item>
+	<item>179|Có tuyết rải rác</item>
+	<item>182|Có mưa đá rải rác</item>
+	<item>185|Có mưa phùn băng rải rác</item>
+	<item>200|Có dông</item>
+	<item>227|Tuyết bay</item>
+	<item>230|Bão tuyết</item>
+	<item>248|Sương mù</item>
+	<item>260|Sương mù đóng băng</item>
+	<item>263|Mưa phùn nhẹ rải rác</item>
+	<item>266|Mưa phùn nhẹ</item>
+	<item>281|Mưa phùn băng</item>
+	<item>284|Mưa phùn băng to</item>
+	<item>293|Mưa nhẹ rải rác</item>
+	<item>296|Mưa nhỏ</item>
+	<item>299|Thỉnh thoảng có mưa vừa</item>
+	<item>302|Mưa vừa</item>
+	<item>305|Thỉnh thoảng có mưa to</item>
+	<item>308|Mưa to</item>
+	<item>311|Mưa băng giá nhẹ</item>
+	<item>314|Mưa băng giá vừa đến to</item>
+	<item>317|Mưa đá nhỏ</item>
+	<item>320|Mưa đá vừa đến to</item>
+	<item>323|Tuyết rơi nhẹ rải rác</item>
+	<item>326|Tuyết rơi nhẹ</item>
+	<item>329|Tuyết rơi vừa rải rác</item>
+	<item>332|Tuyết rơi vừa</item>
+	<item>335|Tuyết rơi dày rải rác</item>
+	<item>338|Tuyết rơi dày</item>
+	<item>350|Mưa đá</item>
+	<item>353|Mưa rào nhẹ</item>
+	<item>356|Mưa rào vừa đến to</item>
+	<item>359|Mưa rào xối xả</item>
+	<item>362|Mưa rào đá nhẹ</item>
+	<item>365|Mưa rào đá vừa đến to</item>
+	<item>368|Mưa rào tuyết nhỏ</item>
+	<item>371|Mưa rào tuyết vừa đến to</item>
+	<item>386|Mưa rào nhẹ có dông rải rác</item>
+	<item>389|Mưa dông vừa đến to</item>
+	<item>392|Tuyết rơi nhẹ có dông rải rác</item>
+	<item>395|Tuyết rơi vừa đến dày có dông rải rác</item>
+</string-array>
+</resources>

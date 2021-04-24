@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Güneşli</item>
+	<item>116|Parçalı bulutlu</item>
+	<item>119|Bulutlu</item>
+	<item>122|Kapalı</item>
+	<item>143|Puslu</item>
+	<item>176|Yer yer yağmur görülebilir</item>
+	<item>179|Yer yer kar görülebilir</item>
+	<item>182|Yer yer karla karışık yağmur görülebilir</item>
+	<item>185|Yer yer donan çisenti olabilir</item>
+	<item>200|Gök gürültülü fırtına görülebilir</item>
+	<item>227|Tipi halinde kar yağışı</item>
+	<item>230|Kar fırtınası</item>
+	<item>248|Sisli</item>
+	<item>260|Donan sis</item>
+	<item>263|Yer yer hafif donan çisenti</item>
+	<item>266|Yer yer donan çisenti</item>
+	<item>281|Donan çisenti</item>
+	<item>284|Kuvvetli don</item>
+	<item>293|Yer yer hafif yağmurlu</item>
+	<item>296|Hafif yağmurlu</item>
+	<item>299|Zaman zaman orta kuvvette yağmur</item>
+	<item>302|Orta kuvvette yağmur</item>
+	<item>305|Zaman zaman şiddetli yağmur</item>
+	<item>308|Şiddetli yağmur</item>
+	<item>311|Ayaz ile hafif yağmur</item>
+	<item>314|Ayaz ile orta kuvvette veya şiddetli yağmur</item>
+	<item>317|Hafif karla karışık yağmur</item>
+	<item>320|Orta kuvvette veya şiddetli sulu kar</item>
+	<item>323|Yer yer hafif kar yağışı</item>
+	<item>326|Hafif kar yağışı</item>
+	<item>329|Yer yer orta şiddette kar yağışı</item>
+	<item>332|Orta kuvvette kar yağışı</item>
+	<item>335|Yer yer kuvvetli kar yağışı</item>
+	<item>338|Kuvvetli kar yağışı</item>
+	<item>350|Dolu yağışı</item>
+	<item>353|Hafif sağanak yağmur</item>
+	<item>356|Orta kuvvette veya şiddetli sağanak yağmur</item>
+	<item>359|Sel riski olan şiddetli sağanak yağmur</item>
+	<item>362|Hafif karla karışık sağanak yağmur</item>
+	<item>365|Orta veya şiddetli karla karışık sağanak yağmur</item>
+	<item>368|Hafif sağanak kar yağışı</item>
+	<item>371|Orta kuvvette veya şiddetli sağanak kar yağışı</item>
+	<item>386|Yer yer gök gürültülü ve yağmurlu</item>
+	<item>389|Orta kuvvette veya şiddetli gök gürültülü yağmur</item>
+	<item>392|Yer yer gök gürültülü ve karlı</item>
+	<item>395|Orta kuvvette veya şiddetli gök gürültülü kar</item>
+</string-array>
+</resources>

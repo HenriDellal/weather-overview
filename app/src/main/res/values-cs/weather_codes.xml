@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Slunečno</item>
+	<item>116|Částečně zataženo</item>
+	<item>119|Zataženo</item>
+	<item>122|Zamračeno</item>
+	<item>143|MLha</item>
+	<item>176|Možnost deště</item>
+	<item>179|Možnost sněžení</item>
+	<item>182|Možnost kroup</item>
+	<item>185|Možnost mrazivého mrholení</item>
+	<item>200|</item>
+	<item>227|Padající sníh</item>
+	<item>230|Vánice</item>
+	<item>248|Mlha</item>
+	<item>260|Mrazivá mlha</item>
+	<item>263|Nepravidelné slabé mrholení</item>
+	<item>266|Slabé mrholení</item>
+	<item>281|Mrazivé mrholení</item>
+	<item>284|Silné mrazivé mrholení</item>
+	<item>293|Nepravidelný slabý déšť</item>
+	<item>296|Slabý déšť</item>
+	<item>299|Občasný déšť</item>
+	<item>302|Déšť</item>
+	<item>305|Občasný hustý déšť</item>
+	<item>308|Silný déšť</item>
+	<item>311|Slabý mrazivý déšť</item>
+	<item>314|Smíšený mrazivý déšť</item>
+	<item>317|Slabé kroupění</item>
+	<item>320|Smíšené kroupění</item>
+	<item>323|Nepravidelné slabé sněžení</item>
+	<item>326|Slabé sněžení</item>
+	<item>329|Nepravidelné sněžení</item>
+	<item>332|Sněžení</item>
+	<item>335|Nepravidelné husté sněžení</item>
+	<item>338|Silné sněžení</item>
+	<item>350|Kroupy</item>
+	<item>353|Lehká déšťová sprcha</item>
+	<item>356|Smíšený déšťová sprcha</item>
+	<item>359|Přívalová déšťová sprcha</item>
+	<item>362|Slabé přeháňková sprcha</item>
+	<item>365|Silné přeháňková sprcha</item>
+	<item>368|Slabé sprcha se sněžením</item>
+	<item>371|Silné sprcha se sněžením</item>
+	<item>386|Nepravidelná slabá bouřka</item>
+	<item>389|Silná bouřka</item>
+	<item>392|Nepravidelný slabá bouřka se sněžením</item>
+	<item>395|Silné sněžení s bouřkou</item>
+</string-array>
+</resources>

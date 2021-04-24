@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sunčano</item>
+	<item>116|Djelomično oblačno</item>
+	<item>119|Oblačno</item>
+	<item>122|Tmurno</item>
+	<item>143|Magla</item>
+	<item>176|Moguća povremena kiša</item>
+	<item>179|Moguć povremeni snijeg</item>
+	<item>182|Moguća povremena susnježica</item>
+	<item>185|Moguća ledena rosulja</item>
+	<item>200|Moguć prolom oblaka</item>
+	<item>227|Nanosi snijega</item>
+	<item>230|Mećava</item>
+	<item>248|Magla</item>
+	<item>260|Ledena magla</item>
+	<item>263|Povremena rosulja</item>
+	<item>266|Lagana rosulja</item>
+	<item>281|Ledena rosulja</item>
+	<item>284|Jaka ledena rosulja</item>
+	<item>293|Povremena lagana kiša</item>
+	<item>296|Lagana kiša</item>
+	<item>299|Umjerena povremena kiša</item>
+	<item>302|Umjerena kiša</item>
+	<item>305|Povremeni pljuskovi</item>
+	<item>308|Jaka kiša</item>
+	<item>311|Lagana ledena kiša</item>
+	<item>314|Umjerena ili jaka ledena kiša</item>
+	<item>317|Lagana susnježica</item>
+	<item>320|Umjerena ili jaka susnježica</item>
+	<item>323|Povremen lagan snijeg</item>
+	<item>326|Lagan snijeg</item>
+	<item>329|Povremen umjeren snijeg</item>
+	<item>332|Umjeren snijeg</item>
+	<item>335|Povremen jak snijeg</item>
+	<item>338|Jak snijeg</item>
+	<item>350|Ledena tuča</item>
+	<item>353|Lagani pljusak</item>
+	<item>356|Umjeren ili jak pljusak</item>
+	<item>359|Obilan pljusak</item>
+	<item>362|Lagana susnježica</item>
+	<item>365|Umjerena ili jaka susnježica</item>
+	<item>368|Lagani snježni pljuskovi</item>
+	<item>371|Umjereni ili jaki snježni pljuskovi</item>
+	<item>386|Povremena lagana kiša s grmljavinom</item>
+	<item>389|Umjerena ili jaka kiša s grmljavinom</item>
+	<item>392|Povremen lagan snijeg s grmljavinom</item>
+	<item>395|Umjeren ili jak snijeg s grmljavinom</item>
+</string-array>
+</resources>

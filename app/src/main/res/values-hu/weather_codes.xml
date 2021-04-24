@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Napos</item>
+	<item>116|Közepesen felhős</item>
+	<item>119|Felhős</item>
+	<item>122|Borult</item>
+	<item>143|Pára</item>
+	<item>176|Szórványos zápor</item>
+	<item>179|Szórványos havazás</item>
+	<item>182|Szórványos havas eső</item>
+	<item>185|Szórványos ónos szitálás</item>
+	<item>200|Viharos széllökések előfordulhatnak</item>
+	<item>227|Hófúvás</item>
+	<item>230|Hóvihar</item>
+	<item>248|Köd</item>
+	<item>260|Zúzmarás köd</item>
+	<item>263|Szórványos gyenge szitálás</item>
+	<item>266|Gyenge szitálás</item>
+	<item>281|Ónos szitálás</item>
+	<item>284|Erős ónos szitálás</item>
+	<item>293|Szórványos gyenge eső</item>
+	<item>296|Gyenge eső</item>
+	<item>299|Időnként eső</item>
+	<item>302|Eső</item>
+	<item>305|Időnként intenzív eső</item>
+	<item>308|Intenzív eső</item>
+	<item>311|Gyenge ónos eső</item>
+	<item>314|Ónos eső</item>
+	<item>317|Gyenge havas eső</item>
+	<item>320|Havas eső</item>
+	<item>323|Szórványos hószállingózás</item>
+	<item>326|Hószállingózás</item>
+	<item>329|Szórványos havazás</item>
+	<item>332|Havazás</item>
+	<item>335|Szórványos intenzív havazás</item>
+	<item>338|Intenzív havazás</item>
+	<item>350|Jégeső</item>
+	<item>353|Gyenge zápor</item>
+	<item>356|Zápor</item>
+	<item>359|Zuhogó záporeső</item>
+	<item>362|Gyenge havas záporeső</item>
+	<item>365|Havas záporeső</item>
+	<item>368|Gyenge hózápor</item>
+	<item>371|Hózápor</item>
+	<item>386|Szórványos zivatar</item>
+	<item>389|Zivatar</item>
+	<item>392|Szórványos hózivatar</item>
+	<item>395|Hózivatar</item>
+</string-array>
+</resources>

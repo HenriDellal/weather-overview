@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sonnig</item>
+	<item>116|Gedeeltelik bewolk</item>
+	<item>119|Bewolk</item>
+	<item>122|Oortrokke</item>
+	<item>143|Mis toestande</item>
+	<item>176|Gedeeltelike reën moontlik</item>
+	<item>179|Gedeeltelike sneeu moontlik</item>
+	<item>182|Gedeeltelike ysreën moontlik</item>
+	<item>185|Gedeeltelik ysige motreën moontlik</item>
+	<item>200|Donderbuie moontlik</item>
+	<item>227|Waaiende sneeu</item>
+	<item>230|Sneeustorm</item>
+	<item>248|Mis toestande</item>
+	<item>260|Vriesende mis toestande</item>
+	<item>263|Gedeeltelike ligte motreën</item>
+	<item>266|Ligte motreën</item>
+	<item>281|Vriesende motreën</item>
+	<item>284|Erg vriesende motreën</item>
+	<item>293|Gedeeltelike ligte reën</item>
+	<item>296|Ligte reën</item>
+	<item>299|Matige reën by tye</item>
+	<item>302|Matige reën</item>
+	<item>305|Swaar reën by tye</item>
+	<item>308|Swaar reën</item>
+	<item>311|Ligte vriesende reën</item>
+	<item>314|Matige tot swaar vriesende reën</item>
+	<item>317|Ligte ysreën</item>
+	<item>320|Matige tot swaar ysreën</item>
+	<item>323|Verspreide ligte sneeu</item>
+	<item>326|Ligte sneeu</item>
+	<item>329|Verspreide ligte sneeu</item>
+	<item>332|Matige sneeu</item>
+	<item>335|Verspreide swaar sneeu</item>
+	<item>338|Swaar sneeu</item>
+	<item>350|Haelkorrels</item>
+	<item>353|Ligte bui reën</item>
+	<item>356|Matige tot swaar bui reënbui</item>
+	<item>359|Stortreën</item>
+	<item>362|Ligte buie ysreën</item>
+	<item>365|Ligte tot swaar buie ysreën</item>
+	<item>368|Ligte buie sneeu</item>
+	<item>371|Ligte tot swaar buie sneeu</item>
+	<item>386|Verspreide ligte buie en donderbuie</item>
+	<item>389|Ligte tot swaar buie en donderbuie</item>
+	<item>392|Verspreide ligte sneeu met donderbuie</item>
+	<item>395|Matige of swaar sneeu met donderbuie</item>
+</string-array>
+</resources>

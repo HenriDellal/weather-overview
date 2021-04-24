@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Słonecznie</item>
+	<item>116|Lekkie zachmurzenie</item>
+	<item>119|Zachmurzenie</item>
+	<item>122|Całkowite zachmurzenie</item>
+	<item>143|Zamglenie</item>
+	<item>176|Możliwe miejscowe opady deszczu</item>
+	<item>179|Możliwe miejscowe opady śniegu</item>
+	<item>182|Możliwe miejscowe opady deszczu ze śniegiem</item>
+	<item>185|Możliwe miejscowe opady marznącego deszczu</item>
+	<item>200|Możliwa burza</item>
+	<item>227|Zawieja śnieżna</item>
+	<item>230|Śnieżyca</item>
+	<item>248|Mgła</item>
+	<item>260|Marznąca mgła</item>
+	<item>263|Przelotna mżawka</item>
+	<item>266|Mżawka</item>
+	<item>281|Marznąca mżawka</item>
+	<item>284|Marznąca mżawka</item>
+	<item>293|Przelotne lekkie opady deszczu</item>
+	<item>296|Lekkie opady deszczu</item>
+	<item>299|Przelotne umiarkowane opady deszczu</item>
+	<item>302|Umiarkowane opady deszczu</item>
+	<item>305|Przelotne silne opady deszczu</item>
+	<item>308|Silne opady deszczu</item>
+	<item>311|Lekki marznący deszcz</item>
+	<item>314|Umiarkowany lub silny marznący deszcz</item>
+	<item>317|Lekki deszcz ze śniegiem</item>
+	<item>320|Umiarkowany lub silny deszcz ze śniegiem</item>
+	<item>323|Miejscowe lekkie opady śniegu</item>
+	<item>326|Lekkie opady śniegu</item>
+	<item>329|Miejscowe umiarkowane opady śniegu</item>
+	<item>332|Umiarkowane opady śniegu</item>
+	<item>335|Miejscowe silne opady śniegu</item>
+	<item>338|Silne opady śniegu</item>
+	<item>350|Gradobicie</item>
+	<item>353|Lekkie opady deszczu</item>
+	<item>356|Umiarkowane lub silne opady deszczu</item>
+	<item>359|Oberwanie chmury</item>
+	<item>362|Lekki deszcz ze śniegiem</item>
+	<item>365|Umiarkowany lub silny deszcz ze śniegiem</item>
+	<item>368|Lekkie opady śniegu</item>
+	<item>371|Umiarkowane lub silne opady śniegu</item>
+	<item>386|Miejscowe lekkie opady deszczu i burza z piorunami</item>
+	<item>389|Umiarkowane lub silne opady deszczu i burza z piorunami</item>
+	<item>392|Miejscowe lekkie opady śniegu i burza z piorunami</item>
+	<item>395|Umiarkowane lub silne opady śniegu i burza z piorunami</item>
+</string-array>
+</resources>

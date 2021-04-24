@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Grianmhar</item>
+	<item>116|Breacscamallach</item>
+	<item>119|Scamallach</item>
+	<item>122|Scamallach</item>
+	<item>143|Ceochán</item>
+	<item>176|Ceathanna</item>
+	<item>179|Ceathanna sneachta</item>
+	<item>182|Ceathanna flichshneachta</item>
+	<item>185|Ceathanna cloichshneachta</item>
+	<item>200|Ceathanna toirní</item>
+	<item>227|Stealladh sneachta</item>
+	<item>230|Síobadh sneachta</item>
+	<item>248|Ceo</item>
+	<item>260|Ceo reoite</item>
+	<item>263|Ceobhrán</item>
+	<item>266|Ceobhrán éadrom</item>
+	<item>281|Ceobhrán reoite</item>
+	<item>284|Ceobhrán reoite trom</item>
+	<item>293|Breachbháisteach éadrom</item>
+	<item>296|Báisteach éadrom</item>
+	<item>299|Báisteach mheasartha uaireanta</item>
+	<item>302|Báisteach mheasartha</item>
+	<item>305|Báisteach throm uairanta</item>
+	<item>308|Báisteach throm</item>
+	<item>311|Báisteach reoite éadrom</item>
+	<item>314|Báisteach mheasartha nó reoite throm</item>
+	<item>317|Flichshneachta éadrom</item>
+	<item>320|Flichshneachta measartha nó trom</item>
+	<item>323|Breacsneachta éadrom</item>
+	<item>326|Sneachta éadrom</item>
+	<item>329|Breacsneachta measartha</item>
+	<item>332|Sneachta measartha</item>
+	<item>335|Sneachta trom uaireanta</item>
+	<item>338|Sneachta trom</item>
+	<item>350|Chloichshneachta</item>
+	<item>353|Cith éadrom</item>
+	<item>356|Cith measartha no trom</item>
+	<item>359|Duartan</item>
+	<item>362|Ceathanna flichshneachta</item>
+	<item>365|Ceathanna flichshneachta measartha nó troma</item>
+	<item>368|Ceathanna sneachta éadroma</item>
+	<item>371|Ceathanna sneachta measartha nó troma</item>
+	<item>386|Ceathanna éadroma le toirneach</item>
+	<item>389|Báisteach measartha nó throm le tóirneach</item>
+	<item>392|Sneachta éadrom le toirneach</item>
+	<item>395|Sneachta measartha nó trom le toirneach</item>
+</string-array>
+</resources>

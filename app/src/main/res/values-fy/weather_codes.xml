@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string-array name="weather_codes" tools:ignore="InconsistentArrays">
+	<item>113|Sinnich</item>
+	<item>116|Bytsje bewolkt</item>
+	<item>119|Bewolkt</item>
+	<item>122|Bewolkt</item>
+	<item>143|Mistich</item>
+	<item>176|Misskien lokaal reinbui</item>
+	<item>179|Misskien lokaal snie</item>
+	<item>182|Misskien lokaal hagel</item>
+	<item>185|Misskien lokaal izel</item>
+	<item>200|Misskien in onwaarsbui</item>
+	<item>227|Snie wyn</item>
+	<item>230|Sniestoarm</item>
+	<item>248|Mistich</item>
+	<item>260|Rijp</item>
+	<item>263|Lokaal motrein</item>
+	<item>266|Motrein</item>
+	<item>281|Izel</item>
+	<item>284|Swiere izel</item>
+	<item>293|Lokaal in bytsje rein</item>
+	<item>296|Bytsje rein</item>
+	<item>299|Út en troch rein</item>
+	<item>302|Rein</item>
+	<item>305|Út en troch swiere rein</item>
+	<item>308|Swiere rein</item>
+	<item>311|Lichte izel</item>
+	<item>314|Swiere izel</item>
+	<item>317|Lichte hagel</item>
+	<item>320|Swiere hagel</item>
+	<item>323|Lokaal lichte snie</item>
+	<item>326|Lichte snie</item>
+	<item>329|Lokaal snie</item>
+	<item>332|Snie</item>
+	<item>335|Lokaal swiere snie</item>
+	<item>338|Swiere snie</item>
+	<item>350|Hagel</item>
+	<item>353|Lichte reinbuien</item>
+	<item>356|Reinbuien</item>
+	<item>359|Ekstreem swiere reinbuien</item>
+	<item>362|Lichte hagelbuien</item>
+	<item>365|Hagelbuien</item>
+	<item>368|Lichte sniebuien</item>
+	<item>371|Sniebuien</item>
+	<item>386|Lokaal lichte rein mei onwaar</item>
+	<item>389|Rein mei onwaar</item>
+	<item>392|Lokaal lichte snie mei onwaar</item>
+	<item>395|Snie mei onwaar</item>
+</string-array>
+</resources>
