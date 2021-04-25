@@ -1,0 +1,1 @@
+Check current and hourly weather (data provided by wttr.in)
