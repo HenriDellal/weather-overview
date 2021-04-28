@@ -20,11 +20,13 @@ import java.util.Arrays;
 public class ForecastDownloader {
 	private static String tag = "app.weatheroverview";
 
-	public static JSONObject get(String location) {
+	public static JSONObject get(String server, String location) {
 		URL url;
 		HttpURLConnection connection;
 		try {
-			url = new URL(String.format("http://wttr.in/%s?format=j1", location));
+			if (!server.endsWith("/"))
+				server += "/";
+			url = new URL(String.format("%s%s?format=j1", server, location));
 			connection = (HttpURLConnection) url.openConnection();
 			connection.setConnectTimeout(5000);
 			connection.setReadTimeout(5000);

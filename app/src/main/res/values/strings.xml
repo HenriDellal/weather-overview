@@ -8,4 +8,5 @@
     <string name="temp_range_fahrenheit" translatable="false">%s..%s \u2109</string>
     <string name="location">Location</string>
     <string name="preferences">Preferences</string>
+    <string name="server">Server</string>
 </resources>

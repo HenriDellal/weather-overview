@@ -1,6 +1,7 @@
 package app.weatheroverview;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -39,12 +40,14 @@ public class MainActivity extends AppCompatActivity {
 		adapter = new HourlyWeatherAdapter(this);
 		((ListView)findViewById(R.id.list_hourly_weather)).setAdapter(adapter);
 		ScheduledExecutorService executor = Executors.newSingleThreadScheduledExecutor();
-		final String location = PreferenceManager.getDefaultSharedPreferences(this).getString("location", "");
+		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+		final String server = prefs.getString("server", "http://wttr.in/");
+		final String location = prefs.getString("location", "");
 		executor.execute(new Runnable() {
 			@Override
 			public void run() {
-				final JSONObject obj = ForecastDownloader.get(location);
 				try {
+					final JSONObject obj = ForecastDownloader.get(server, location);
 					mainExecutor.execute(new Runnable() {
 						@Override
 						public void run() {
@@ -53,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 							adapter.update(forecast);
 						}
 					});
-				} catch (NullPointerException e) {
+				} catch (Exception e) {
 					e.printStackTrace();
 				}
 			}
