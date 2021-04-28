@@ -32,10 +32,8 @@ public class ForecastDownloader {
 			connection.setReadTimeout(5000);
 			connection.setRequestProperty("Accept", "application/json");
 			connection.connect();
-			Log.e(tag, String.valueOf(connection.getResponseCode()));
 		} catch (IOException e) {
 			e.printStackTrace();
-			Log.e(tag, e.toString());
 			return null;
 		}
 		JSONObject obj = null;

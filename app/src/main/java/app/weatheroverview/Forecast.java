@@ -97,7 +97,6 @@ public class Forecast {
 				}
 				weatherHourly.add(hour);
 			}
-			Log.d("app.weatheroverview", weatherHourly.get(0).toString());
 		} catch (JSONException e) {
 			e.printStackTrace();
 		}
@@ -110,7 +109,6 @@ public class Forecast {
 		String defaultTempUnit = res.getString(R.string.celsius);
 		String defaultSpeedUnit = res.getString(R.string.fahrenheit);
 		String tempUnitPref = prefs.getString("measure_unit_temp", defaultTempUnit);
-		Log.d("d", tempUnitPref);
 		useCelsius = defaultTempUnit.equals(tempUnitPref);
 		String speedUnitPerf = prefs.getString("measure_unit_speed", defaultSpeedUnit);
 		useKilometers = defaultSpeedUnit.equals(speedUnitPerf);
