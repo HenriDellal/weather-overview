@@ -9,6 +9,7 @@ import android.widget.ListView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.core.content.ContextCompat;
 import androidx.preference.PreferenceManager;
 
 import org.json.JSONObject;
@@ -34,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 		Toolbar toolbar = findViewById(R.id.toolbar_main);
 		setSupportActionBar(toolbar);
 		WeatherCodeUtils.init(getResources());
-		mainExecutor = getMainExecutor();
+		mainExecutor = ContextCompat.getMainExecutor(this);
 		adapter = new HourlyWeatherAdapter(this);
 		((ListView)findViewById(R.id.list_hourly_weather)).setAdapter(adapter);
 		ScheduledExecutorService executor = Executors.newSingleThreadScheduledExecutor();
