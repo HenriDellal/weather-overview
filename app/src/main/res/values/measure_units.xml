@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="measure_units">Measure units</string>
     <string name="measure_unit_temp">Temperature</string>
     <string name="measure_unit_speed">Wind speed</string>
     <string-array name="measure_units_temp">

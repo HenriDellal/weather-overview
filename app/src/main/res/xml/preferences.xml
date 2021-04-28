@@ -9,7 +9,7 @@
         app:defaultValue=""
         app:title="@string/location" />
     <PreferenceCategory
-        app:title="Measure units" >
+        app:title="@string/measure_units" >
         <ListPreference
             app:key="measure_unit_temp"
             app:defaultValue="@string/celsius"

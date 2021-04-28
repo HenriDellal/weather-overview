@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="measure_units">Единицы измерения</string>
+    <string name="measure_unit_temp">Температура</string>
+    <string name="measure_unit_speed">Скорость ветра</string>
+    <string-array name="measure_units_temp">
+        <item>Цельсия</item>
+        <item>По Фаренгейту</item>
+    </string-array>
+    <string-array name="measure_units_speed">
+        <item>км/ч</item>
+        <item>миль/ч</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="feels_like">По ощущениям %s%s</string>
+    <string name="wind_speed_kmh">Скорость ветра: %s км/ч</string>
+    <string name="wind_speed_mph">Скорость ветра: %s миль/ч</string>
+    <string name="humidity">Влажность: %s%%</string>
+    <string name="location">Местоположение</string>
+    <string name="preferences">Настройки</string>
+    <string name="server">Сервер</string>
+</resources>
