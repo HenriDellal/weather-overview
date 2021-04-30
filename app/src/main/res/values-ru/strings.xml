@@ -6,4 +6,5 @@
     <string name="location">Местоположение</string>
     <string name="preferences">Настройки</string>
     <string name="server">Сервер</string>
+    <string name="caching">Кэширование</string>
 </resources>

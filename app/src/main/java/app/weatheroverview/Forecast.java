@@ -91,8 +91,6 @@ public class Forecast {
 				Map<String, String> hour = new HashMap<>();
 				JSONObject object = weatherByHours.getJSONObject(i);
 				for (String key: hourlyWeatherKeys) {
-
-					Log.d("app.weatheroverview", object.getString(key));
 					hour.put(key, object.getString(key));
 				}
 				weatherHourly.add(hour);

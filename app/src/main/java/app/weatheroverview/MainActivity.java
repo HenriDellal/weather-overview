@@ -1,7 +1,6 @@
 package app.weatheroverview;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -11,7 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.content.ContextCompat;
-import androidx.preference.PreferenceManager;
 
 import org.json.JSONObject;
 
@@ -24,11 +22,9 @@ import app.weatheroverview.data.ForecastDownloader;
 import app.weatheroverview.utils.WeatherCodeUtils;
 
 public class MainActivity extends AppCompatActivity {
-
-	Executor mainExecutor;
-	Forecast forecast;
-
+	private Forecast forecast;
 	private HourlyWeatherAdapter adapter;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -36,18 +32,19 @@ public class MainActivity extends AppCompatActivity {
 		Toolbar toolbar = findViewById(R.id.toolbar_main);
 		setSupportActionBar(toolbar);
 		WeatherCodeUtils.init(getResources());
-		mainExecutor = ContextCompat.getMainExecutor(this);
 		adapter = new HourlyWeatherAdapter(this);
 		((ListView)findViewById(R.id.list_hourly_weather)).setAdapter(adapter);
+		updateWeatherData();
+	}
+
+	private void updateWeatherData() {
+		final Executor mainExecutor = ContextCompat.getMainExecutor(this);
 		ScheduledExecutorService executor = Executors.newSingleThreadScheduledExecutor();
-		SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-		final String server = prefs.getString("server", "http://wttr.in/");
-		final String location = prefs.getString("location", "");
 		executor.execute(new Runnable() {
 			@Override
 			public void run() {
 				try {
-					final JSONObject obj = ForecastDownloader.get(server, location);
+					final JSONObject obj = ForecastDownloader.get(MainActivity.this);
 					mainExecutor.execute(new Runnable() {
 						@Override
 						public void run() {

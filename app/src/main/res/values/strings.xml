@@ -9,4 +9,5 @@
     <string name="location">Location</string>
     <string name="preferences">Preferences</string>
     <string name="server">Server</string>
+    <string name="caching">Caching</string>
 </resources>
